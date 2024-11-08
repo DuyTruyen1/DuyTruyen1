@@ -31,7 +31,7 @@
 ## Skills:
 <p align="center">
   <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="48" height="48"/> 
-  <img src="https://img.icons8.com/?size=512&id=90519&format=png" alt="Laravel Logo" width="48" height="48">
+    <img src="https://img.icons8.com/color/48/000000/laravel-logo.png" alt="Spring Boot Logo">
   <img src="https://img.icons8.com/color/48/000000/spring-logo.png" alt="Spring Boot Logo">
   <img src="https://img.icons8.com/color/48/000000/microsoft-sql-server.png"/>
   <img src="https://img.icons8.com/color/48/000000/mysql-logo.png"/>
